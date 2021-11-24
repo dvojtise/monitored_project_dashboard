@@ -9,5 +9,5 @@ Dashboard of the build of the projects I monitor
   * [![SyncForkedMasters](https://github.com/gemoc/gemoc-studio-eclipseforks-integration/actions/workflows/sync-forked-master.yml/badge.svg)](https://github.com/gemoc/gemoc-studio-eclipseforks-integration/actions/workflows/sync-forked-master.yml) 
 
 * gemoc-studio-eclipse-integration
-  * [![https://ci.eclipse.fr/gemoc/gemoc-studio-integration/job/master/badge/icon](https://ci.eclipse.fr/gemoc/gemoc-studio-integration/job/master/badge/icon?subject=Master%20build)](https://ci.eclipse.fr/gemoc/gemoc-studio-integration/job/master)
+  * [![https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/badge/icon](https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/badge/icon?subject=Master%20build)](https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/)
   * [![SyncSubModulesBranches](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml/badge.svg)](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml)
