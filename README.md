@@ -13,4 +13,4 @@ Dashboard of the build of the projects I monitor
   * [![SyncSubModulesBranches](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml/badge.svg)](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml)
 
 * XBPMN
-*  [![maven workflow](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml/badge.svg)](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml "Tycho build") 
+  *  [![maven workflow](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml/badge.svg)](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml "Tycho build") 
