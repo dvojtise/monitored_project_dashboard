@@ -11,3 +11,6 @@ Dashboard of the build of the projects I monitor
 * gemoc-studio-eclipse-integration
   * [![https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/badge/icon](https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/badge/icon?subject=Master%20build)](https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/)
   * [![SyncSubModulesBranches](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml/badge.svg)](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml)
+
+* XBPMN
+*  [![maven workflow](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml/badge.svg)](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml "Tycho build") 
