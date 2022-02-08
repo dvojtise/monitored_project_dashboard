@@ -19,6 +19,7 @@ Dashboard of the build of the projects I monitor
   *  [![maven workflow](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml/badge.svg)](https://github.com/gemoc/xbpmn/actions/workflows/tycho.yml "Tycho build") 
 
 * Atsyra
+  * [![maven workflow](https://gitlab.inria.fr/atsyra/atsyra2/badges/master/pipeline.svg)](https://gitlab.inria.fr/atsyra/atsyra2/badges/master/pipeline.svg "Tycho build") 
   * ![AtsyrA](https://gitlab.inria.fr/atsyra/atsyra2/badges/master/pipeline.svg)
 * Pacap Heptane  
  
