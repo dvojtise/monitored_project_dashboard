@@ -46,8 +46,8 @@ jobs:
           # Optional plain body:
           #body: Build job of ${{github.repository}} completed successfully!
           # Optional HTML body read from file:
-          html_body: file://DVK_CI_Dashboard.html
+          html_body: file://DVK_CI_Dashboard.md
           # Optional recipient of the email response:
           reply_to: didier.vojtisek@inria.fr
           # Optional converting Markdown to HTML (set content_type to text/html too):
-          #convert_markdown: true
+          convert_markdown: true
