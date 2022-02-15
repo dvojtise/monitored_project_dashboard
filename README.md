@@ -12,6 +12,9 @@ Dashboard of the build of the projects I monitor
   * [![https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/badge/icon](https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/badge/icon?subject=Master%20build)](https://ci.eclipse.org/gemoc/job/gemoc-studio-integration/job/master/)
   * [![SyncSubModulesBranches](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml/badge.svg)](https://github.com/gemoc/gemoc-studio-eclipse-integration/actions/workflows/syncSubModuleBranches.yml)
 
+* GEMOC Gallery Status
+  *  [![Build Status](https://ci.inria.fr/gemoc/buildStatus/icon?job=GEMOC+Gallery+Status)](https://ci.inria.fr/gemoc/job/GEMOC%20Gallery%20Status/)
+
 * GEMOC coordination
   *   TODO !!! 
 
